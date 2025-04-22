@@ -8,11 +8,8 @@
 
 ### 🧐 About
 
-- 🔭 I’m currently working as a Android Developer
-- ⏳ I’m currently learning
-<!-- ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin) -->
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+- 🔭 I’m currently working as a Full Stack Developer
+- ⏳ I’m currently learning Python, Django
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything related to Android development  
 - 🌐 Little bit exploring Web development too.
